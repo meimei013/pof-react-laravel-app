@@ -1,0 +1,48 @@
+body{
+	background: #eff0f1!important;
+}
+button {
+  width:100%;
+}
+.text_title{
+  font-size:1.5em;
+}
+.LoginWrapper {
+ 
+  margin: 0 auto 1rem;
+  background: #fff;
+  -webkit-box-shadow: 0 1px 2px 1px rgb(0 0 0 / 5%);
+  box-shadow: 0 1px 2px 1px rgb(0 0 0 / 5%);
+  border-radius: 0.5rem;
+  padding:30px;
+}
+.MainWrapper{
+margin-top:2rem;
+}
+  
+  .box {
+	border: 1px solid #dfdfdf;
+	background-color: #fff;
+  }
+  
+  .g-btn {
+	width: 100% !important;
+	height: 40px !important;
+	line-height: 40px !important;
+	font-size: 15px !important;
+	border-radius: 0.25rem !important;
+  }
+  .g-btn > div,
+  .g-btn > div > svg {
+	width: 40px !important;
+	height: 38px !important;
+	border-radius: 0.25rem !important;
+	
+  }
+  .nav {
+    color: #fff;
+}
+
+.nav .nav-item {
+	margin-right:15px;
+}
